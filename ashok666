@@ -4,3 +4,8 @@ sonarcube
 nexus
 docker
 ancible
+vpc
+s3
+rds
+terraform
+elb
